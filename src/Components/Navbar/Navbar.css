@@ -38,3 +38,8 @@ nav ul li{
     border: 0;
     outline: 0;
 }
+
+.dark-nav{
+    background: #212EA0;
+    transition: 0.5s;
+}
