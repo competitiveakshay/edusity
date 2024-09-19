@@ -41,7 +41,7 @@ const Contact = () => {
         <ul>
             <li><img src={mail_icon} alt="" /> akshay.gaur028@gmail.com</li>
             <li><img src={phone_icon} alt="" />+91-9311211182</li>
-            <li><img src={location_icon} alt="" />India, New Delhi</li>
+            <li><img src={location_icon} alt="" />New Delhi, India</li>
         </ul>
       </div>
 
